@@ -100,7 +100,8 @@ https://www.youtube.com/watch?v=GsA8UhmQMKo&t=1s
 
 
 # 🖼 아키텍쳐
-<center>![제목을 입력해주세요_-001](https://user-images.githubusercontent.com/50544205/203210022-6b78ced0-96e3-4c08-af57-12d8ca16ed1e.png)
+<center>![image](https://user-images.githubusercontent.com/50544205/203210232-0a99a6ff-0903-4ffe-a390-b5ea402d2e2a.png)
+
 </center>
 
 <br />
