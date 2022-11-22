@@ -101,7 +101,8 @@ https://www.youtube.com/watch?v=GsA8UhmQMKo&t=1s
 
 # 🖼 아키텍쳐
 <center>
-![image](https://user-images.githubusercontent.com/50544205/203210232-0a99a6ff-0903-4ffe-a390-b5ea402d2e2a.png)
+  ![shorts7](https://user-images.githubusercontent.com/50544205/203209664-fc5ef8e2-4818-42fc-afef-99d848aa53a6.gif)
+  ![image](https://user-images.githubusercontent.com/50544205/203210232-0a99a6ff-0903-4ffe-a390-b5ea402d2e2a.png)
 </center>
 
 <br />
