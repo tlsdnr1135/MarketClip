@@ -2,7 +2,8 @@
 <h2>https://marketclip.kr/</h2>
 
 ### 😎요즘은 짧은 영상이 대세! 쇼핑에도 영상을 보는 즐거움이 있는 마켓클립!
-<p align="center"><img src="https://wook-bucket.s3.ap-northeast-2.amazonaws.com/222222.png" />
+![shorts7](https://user-images.githubusercontent.com/50544205/203209664-fc5ef8e2-4818-42fc-afef-99d848aa53a6.gif)
+
 
 
 <br />
